@@ -1,1 +1,1 @@
-this is the about page
+This is the About Page edited from GitHub directly!
